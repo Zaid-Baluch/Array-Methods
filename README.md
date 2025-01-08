@@ -32,7 +32,7 @@ console.log(toDoList);
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Zaid-Baluch/Array-Methods
    ```
 2. Open the JavaScript file in your code editor.
 3. Run the file in a browser console or using Node.js to see the array manipulations in action.
